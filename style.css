@@ -2,17 +2,23 @@
 body{
     background-color:hsl(212, 45%, 89%);
     text-align: center;
-
-    font-family: outfit;
-    display:flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
+    flex-direction: column;    
+    display:flex;
+    font-family: outfit;
     height: 100vh;
+    overflow:hidden;
+
     font-size: 15px;
 }
 
-#container{
+.container{
+
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;    
+    display:flex;
     padding-top:17px;
     background-color: white;
     width: 15%;
