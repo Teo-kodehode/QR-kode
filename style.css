@@ -1,0 +1,53 @@
+
+body{
+    background-color:hsl(212, 45%, 89%);
+    text-align: center;
+
+    font-family: outfit;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    font-size: 15px;
+}
+
+#container{
+    padding-top:17px;
+    background-color: white;
+    width: 15%;
+    min-width: 350px;
+    border-radius:15px;
+    padding-bottom: 17px;
+}
+
+img {
+    height: 315px;
+    width: 315px;
+    border-radius:15px;
+}
+
+
+a {
+    color: hsl(228, 45%, 44%);
+}
+
+
+h1 {
+    font-size: 160%;
+    padding: 18px 35px 5px 35px;
+}
+
+
+.text{
+    line-height: 1.5;
+    padding: 15px 45px 0 45px;
+    color:hsl(220, 15%, 55%);
+}
+
+#credits{
+    margin-top: 20px;
+    font-size: 11px;
+    color: hsl(218, 44%, 22%);
+}
+
