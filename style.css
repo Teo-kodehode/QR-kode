@@ -23,6 +23,7 @@ body{
     background-color: white;
     width: 15%;
     min-width: 350px;
+    max-width: 300px;
     border-radius:15px;
     padding-bottom: 17px;
 }
@@ -46,7 +47,7 @@ h1 {
 
 
 .text{
-    line-height: 1.5;
+    line-height: 1.3;
     padding: 15px 45px 0 45px;
     color:hsl(220, 15%, 55%);
 }
